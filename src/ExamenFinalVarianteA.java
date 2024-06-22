@@ -145,6 +145,7 @@ public class ExamenFinalVarianteA {
         System.out.println("1. Operaciones");
         System.out.println("2. Estudiantes");
         System.out.println("3. Ordenamiento");
+        System.out.println("4. Salir");
     }
 
 
@@ -168,6 +169,7 @@ public class ExamenFinalVarianteA {
                     ejercicios.OrdenamientoDeCalificaciones();
                     break;
                 case 4:
+
                     System.out.println("Saliendo del programa... ");
                 break;
                 default:
